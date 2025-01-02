@@ -2,13 +2,13 @@
 
 ### 환영합니다! 여러분 모두 개발자가 되는 그 날까지 화이팅! 🏃🏃‍♂️🏃‍♀️
 
-### 🎅 강사소개
+### 👩🏼‍🏫 강사소개
 - 강보람
 - 010-5511-9220
 
-### Notion 링크
+### 🏫 Notion 링크
 
-### 🎁 Learning Course
+### 📝 Learning Course
 1. Java
 2. MySQL
 3. MyBatis
@@ -22,7 +22,7 @@
 11. NCP
 12. final-project
 
-### 🏫 Repository
+### 📂 Repository
 - [Java]()
 - [MySQL]()
 - [JDBC]()
@@ -33,7 +33,7 @@
 - [JPA]()
 - [NCP]()
 
-### 💬 참고 사이트 (Ctrl 클릭하면 새 창으로 열 수 있습니다.)
+### 🔗 참고 사이트 (Ctrl 클릭하면 새 창으로 열 수 있습니다.)
 <ul type="disc">
   <li>FrontEnd
     <ul>
@@ -54,11 +54,12 @@
   <li>Etc
     <ul>
       <li><a href="https://www.markdowntutorial.com/kr/">Markdown (마크다운 튜토리얼 사이트)</a></li>
+      <li><a href="https://whimsical.com/">Whimsical (다이어그램 및 플로우차트 작성 사이트)</a></li>
       <li><a href="https://www.erdclound.com/">ERD Cloud (ERD 작성 사이트)</a></li>
-      <li><a href="">Figma (UI 설계 사이트)</a></li>
+      <li><a href="https://www.figma.com/">Figma (UI 설계 사이트)</a></li>
     </ul>
   </li>
 </ul>
 
-### 💻 수업 영상
+### 📽️ 수업 영상
 - [Java]()
