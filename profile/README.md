@@ -1,26 +1,26 @@
-## JAVA기반 백엔드 개발자 양성과정
+## SSG I&C (KDT) JAVA기반 백엔드 개발자 양성과정
 
 ### 환영합니다! 여러분 모두 개발자가 되는 그 날까지 화이팅! 🏃🏃‍♂️🏃‍♀️
 
 ### 👩🏼‍🏫 강사소개
 - 강보람
 - 010-5511-9220
+- kangaroo.ohgiraffers@gmail.com
 
 ### 🏫 Notion 링크
 
 ### 📝 Learning Course
 1. Java
 2. MySQL
-3. MyBatis
+3. MyBatis Framework
 4. mini-project1
 5. Front(HTML/CSS/JavaScript)
 6. Servlet/JSP
 7. Spring Framework
 8. mini-project2
 9. JPA
-10. Linux
-11. NCP
-12. final-project
+10. NCP
+11. final-project
 
 ### 📂 Repository
 - [Java]()
@@ -29,7 +29,8 @@
 - [MyBatis]()
 - [Front]()
 - [Servlet/JSP]()
-- [Spring]()
+- [Spring_Core]()
+- [Spring_Web]()
 - [JPA]()
 - [NCP]()
 
