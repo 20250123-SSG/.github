@@ -18,14 +18,14 @@
 1. Java
 2. MySQL
 3. MyBatis Framework
-4. mini-project1
+4. Mini-Project1
 5. Front(HTML/CSS/JavaScript)
 6. Servlet/JSP
 7. Spring Framework
-8. mini-project2
+8. Mini-Project2
 9. JPA
 10. NCP
-11. final-project
+11. Final-Project
 
 ### 📂 Repository
 - [Java]()
