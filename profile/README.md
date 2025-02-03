@@ -82,7 +82,7 @@
 </ul>
 
 ### 📽️ 수업 영상
-- [Java]()
+- [Java](https://drive.google.com/drive/folders/1hfND0Jwe549Vjg0qkDw2kCeFxEzlTNjj?usp=sharing)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
