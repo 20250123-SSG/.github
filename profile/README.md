@@ -43,7 +43,7 @@
 
 ### 📂 Teacher Lecture Source Repository
 - [Java](https://github.com/20250123-SSG/01_java-workspace)
-- [MySQL]()
+- [MySQL](https://github.com/20250123-SSG/02_mysql-workspace)
 - [JDBC]()
 - [MyBatis]()
 - [Front]()
