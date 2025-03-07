@@ -83,6 +83,7 @@
 
 ### 📽️ 수업 영상
 - [Java](https://drive.google.com/drive/folders/1hfND0Jwe549Vjg0qkDw2kCeFxEzlTNjj?usp=sharing)
+- [MySQL](https://drive.google.com/drive/folders/165iA3f-XedYU3b7qF9cMUp_DThpcKIgq?usp=drive_link)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
