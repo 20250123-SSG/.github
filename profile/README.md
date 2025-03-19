@@ -44,7 +44,7 @@
 ### 📂 Teacher Lecture Source Repository
 - [Java](https://github.com/20250123-SSG/01_java-workspace)
 - [MySQL](https://github.com/20250123-SSG/02_mysql-workspace)
-- [JDBC]()
+- [JDBC](https://github.com/20250123-SSG/03_jdbc-workspace)
 - [MyBatis]()
 - [Front]()
 - [Servlet/JSP]()
@@ -84,6 +84,9 @@
 ### 📽️ 수업 영상
 - [Java](https://drive.google.com/drive/folders/1hfND0Jwe549Vjg0qkDw2kCeFxEzlTNjj?usp=sharing)
 - [MySQL](https://drive.google.com/drive/folders/165iA3f-XedYU3b7qF9cMUp_DThpcKIgq?usp=drive_link)
+- [JDBC](https://drive.google.com/drive/folders/1z1v-JZ86Gqx7Z9PS1XZjxTwg8VeH9LHV?hl=ko)
+- 
+- [참고_UML모델링](https://drive.google.com/drive/folders/1O1QMotfrnfdRLeuGYRLMGYUxtRiyhSbN?hl=ko)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
