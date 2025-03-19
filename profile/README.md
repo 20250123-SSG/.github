@@ -85,7 +85,6 @@
 - [Java](https://drive.google.com/drive/folders/1hfND0Jwe549Vjg0qkDw2kCeFxEzlTNjj?usp=sharing)
 - [MySQL](https://drive.google.com/drive/folders/165iA3f-XedYU3b7qF9cMUp_DThpcKIgq?usp=drive_link)
 - [JDBC](https://drive.google.com/drive/folders/1z1v-JZ86Gqx7Z9PS1XZjxTwg8VeH9LHV?hl=ko)
-- 
 - [참고_UML모델링](https://drive.google.com/drive/folders/1O1QMotfrnfdRLeuGYRLMGYUxtRiyhSbN?hl=ko)
 
 
