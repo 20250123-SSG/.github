@@ -8,7 +8,7 @@
 - (K-DT) Java기반 백엔드 개발자 양성과정 7회차
 - 2025/01/23 ~ 2025/07/29 (960시간, 120일)
   
-### 👩🏼‍🏫 강사소개
+### 👩🏻‍🏫 강사소개
 - 강보람
 - 010-5511-9220
 - kangaroo.ohgiraffers@gmail.com
@@ -61,7 +61,7 @@
 - [Front](https://drive.google.com/drive/folders/1za4D67IO1o4APSbmpP2-2jl0HBmyz6bN?usp=drive_link)
 - [참고_UML모델링](https://drive.google.com/drive/folders/1O1QMotfrnfdRLeuGYRLMGYUxtRiyhSbN?hl=ko)
 
-### 👬 1차 Mini Project ### 
+### 👬 1차 Mini Project 
 - [1조_WMS-CJOA](https://github.com/20250123-SSG/wms_CJOA)
 - [2조_WMS-Olive](https://github.com/20250123-SSG/wms_Olive)
 - [3조_WMS-SWMS](https://github.com/20250123-SSG/wms_SWMS)
@@ -93,8 +93,5 @@
     </ul>
   </li>
 </ul>
-
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
