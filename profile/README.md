@@ -64,7 +64,7 @@
 ### 👬 1차 Mini Project ### 
 - [1조_WMS-CJOA](https://github.com/20250123-SSG/wms_CJOA)
 - [2조_WMS-Olive](https://github.com/20250123-SSG/wms_Olive)
-- [3wh_WMS-SWMS](https://github.com/20250123-SSG/wms_SWMS)
+- [3조_WMS-SWMS](https://github.com/20250123-SSG/wms_SWMS)
 
 ### 🔗 참고 사이트 (Ctrl 클릭하면 새 창으로 열 수 있습니다.)
 <ul type="disc">
