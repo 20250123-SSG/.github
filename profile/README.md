@@ -46,12 +46,25 @@
 - [MySQL](https://github.com/20250123-SSG/02_mysql-workspace)
 - [JDBC](https://github.com/20250123-SSG/03_jdbc-workspace)
 - [MyBatis](https://github.com/20250123-SSG/04_mybatis-workspace)
-- [Front]()
+- [Front](https://github.com/20250123-SSG/05_front-workspace)
 - [Servlet/JSP]()
 - [Spring_Core]()
 - [Spring_Web]()
 - [JPA]()
 - [NCP]()
+
+### 📽️ 수업 영상
+- [Java](https://drive.google.com/drive/folders/1hfND0Jwe549Vjg0qkDw2kCeFxEzlTNjj?usp=sharing)
+- [MySQL](https://drive.google.com/drive/folders/165iA3f-XedYU3b7qF9cMUp_DThpcKIgq?usp=drive_link)
+- [JDBC](https://drive.google.com/drive/folders/1z1v-JZ86Gqx7Z9PS1XZjxTwg8VeH9LHV?hl=ko)
+- [MyBatis](https://drive.google.com/drive/folders/1_yMGJOPBn-qbxxPDLBwKDMi_EeI_LaJO?hl=ko)
+- [Front](https://drive.google.com/drive/folders/1za4D67IO1o4APSbmpP2-2jl0HBmyz6bN?usp=drive_link)
+- [참고_UML모델링](https://drive.google.com/drive/folders/1O1QMotfrnfdRLeuGYRLMGYUxtRiyhSbN?hl=ko)
+
+### 👬 1차 Mini Project ### 
+- [1조_WMS-CJOA](https://github.com/20250123-SSG/wms_CJOA)
+- [2조_WMS-Olive](https://github.com/20250123-SSG/wms_Olive)
+- [3wh_WMS-SWMS](https://github.com/20250123-SSG/wms_SWMS)
 
 ### 🔗 참고 사이트 (Ctrl 클릭하면 새 창으로 열 수 있습니다.)
 <ul type="disc">
@@ -81,12 +94,7 @@
   </li>
 </ul>
 
-### 📽️ 수업 영상
-- [Java](https://drive.google.com/drive/folders/1hfND0Jwe549Vjg0qkDw2kCeFxEzlTNjj?usp=sharing)
-- [MySQL](https://drive.google.com/drive/folders/165iA3f-XedYU3b7qF9cMUp_DThpcKIgq?usp=drive_link)
-- [JDBC](https://drive.google.com/drive/folders/1z1v-JZ86Gqx7Z9PS1XZjxTwg8VeH9LHV?hl=ko)
-- [MyBatis](https://drive.google.com/drive/folders/1_yMGJOPBn-qbxxPDLBwKDMi_EeI_LaJO?hl=ko)
-- [참고_UML모델링](https://drive.google.com/drive/folders/1O1QMotfrnfdRLeuGYRLMGYUxtRiyhSbN?hl=ko)
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
