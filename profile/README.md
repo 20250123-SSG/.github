@@ -48,8 +48,7 @@
 - [MyBatis](https://github.com/20250123-SSG/04_mybatis-workspace)
 - [Front](https://github.com/20250123-SSG/05_front-workspace)
 - [Servlet/JSP](https://github.com/20250123-SSG/06_servlet-jsp-workspace)
-- [Spring_Core]()
-- [Spring_Web]()
+- [SpringFramework](https://github.com/20250123-SSG/07_springframework-workspace)
 - [JPA]()
 - [NCP]()
 
@@ -60,6 +59,7 @@
 - [MyBatis](https://drive.google.com/drive/folders/1_yMGJOPBn-qbxxPDLBwKDMi_EeI_LaJO?hl=ko)
 - [Front](https://drive.google.com/drive/folders/1za4D67IO1o4APSbmpP2-2jl0HBmyz6bN?usp=drive_link)
 - [Servlet/JSP](https://drive.google.com/drive/folders/1oTTpBpyLz9WDGX9ZRofuCr-tH4wIQP4q?hl=ko)
+- [SpringFramework](https://drive.google.com/drive/folders/18esLoyikniuEa6b7w3HHDb-iAOBuAw5a?usp=drive_link)
 - [참고_UML모델링](https://drive.google.com/drive/folders/1O1QMotfrnfdRLeuGYRLMGYUxtRiyhSbN?hl=ko)
 
 ### 👬 1차 Mini Project 
