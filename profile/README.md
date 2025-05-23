@@ -14,7 +14,7 @@
 - kangaroo.ohgiraffers@gmail.com
 
 ### 🏫 Notion 링크
-- [우리반 노션](https://www.notion.so/ohgiraffers/I-C-K-JAVA-7-64b9ac93bd45487a88fb11f25603ace0)
+- [우리반 노션](https://www.notion.so/I-C-K-JAVA-7-1f21eb8b52ff80459fa0d3bba36c3dd8)
 
 ### 📝 Learning Course
 1. Java
@@ -49,6 +49,7 @@
 - [Front](https://github.com/20250123-SSG/05_front-workspace)
 - [Servlet/JSP](https://github.com/20250123-SSG/06_servlet-jsp-workspace)
 - [SpringFramework](https://github.com/20250123-SSG/07_springframework-workspace)
+- [SpringBoot](https://github.com/20250123-SSG/08_springboot-workspace)
 - [JPA]()
 - [NCP]()
 
@@ -60,12 +61,17 @@
 - [Front](https://drive.google.com/drive/folders/1za4D67IO1o4APSbmpP2-2jl0HBmyz6bN?usp=drive_link)
 - [Servlet/JSP](https://drive.google.com/drive/folders/1oTTpBpyLz9WDGX9ZRofuCr-tH4wIQP4q?hl=ko)
 - [SpringFramework](https://drive.google.com/drive/folders/18esLoyikniuEa6b7w3HHDb-iAOBuAw5a?usp=drive_link)
-- [참고_UML모델링](https://drive.google.com/drive/folders/1O1QMotfrnfdRLeuGYRLMGYUxtRiyhSbN?hl=ko)
+- [SpringBoot](https://drive.google.com/drive/folders/1msPHijdJX-CxsQxsgMTsEPWGGUGb8K7s?hl=ko)
+- [참고_UML모델링(영상내렸습니다~필요하면요청주세요)](https://drive.google.com/drive/folders/1O1QMotfrnfdRLeuGYRLMGYUxtRiyhSbN?hl=ko)
 
 ### 👬 1차 Mini Project 
 - [1조_WMS-CJOA](https://github.com/20250123-SSG/wms_CJOA)
 - [2조_WMS-Olive](https://github.com/20250123-SSG/wms_Olive)
 - [3조_WMS-SWMS](https://github.com/20250123-SSG/wms_SWMS)
+
+### 👬 2차 Mini Project 
+- [1조_Shoppingmall-Admin-A+Store](https://github.com/20250123-SSG/shoppingmall-admin_astore)
+- [2조_Shoppingmall-Admin-iyBook](https://github.com/20250123-SSG/shoppingmall-admin_iybook)
 
 ### 🔗 참고 사이트 (Ctrl 클릭하면 새 창으로 열 수 있습니다.)
 <ul type="disc">
