@@ -14,7 +14,7 @@
 - kangaroo.ohgiraffers@gmail.com
 
 ### 🏫 Notion 링크
-- [우리반 노션](https://www.notion.so/I-C-K-JAVA-7-1f21eb8b52ff80459fa0d3bba36c3dd8)
+- [우리반 노션](https://www.notion.so/ohgiraffers/184649136c1181168bceda19ceae4919)
 
 ### 📝 Learning Course
 1. Java
