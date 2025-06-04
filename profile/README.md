@@ -50,7 +50,7 @@
 - [Servlet/JSP](https://github.com/20250123-SSG/06_servlet-jsp-workspace)
 - [SpringFramework](https://github.com/20250123-SSG/07_springframework-workspace)
 - [SpringBoot](https://github.com/20250123-SSG/08_springboot-workspace)
-- [JPA]()
+- [JPA](https://github.com/20250123-SSG/09_jpa-workspace)
 - [NCP]()
 
 ### 📽️ 수업 영상
