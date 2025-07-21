@@ -4,6 +4,25 @@
 
 ### 환영합니다! 여러분 모두 개발자가 되는 그 날까지 화이팅! 🏃🏃‍♂️🏃‍♀️
 
+### 👬 Final Project
+#### yesul (전통주 검색 및 소개 커뮤니티 플랫폼)
+| [Repository](https://github.com/20250123-SSG/final-yesul) | [Sprint Board](https://github.com/orgs/20250123-SSG/projects/4) | [Milestones](https://github.com/20250123-SSG/final-yesul/milestones) | [Issues](https://github.com/20250123-SSG/final-yesul/issues?q=is%3Aissue%20state%3Aclosed) |
+|-----------------------------------------------------------|------------------|----------------|-----------------|
+#### zip.lab (영수증 및 위치 기반 식당 리뷰 플랫폼)
+| [Repository](https://github.com/20250123-SSG/final-noodle-zip) | [Sprint Board](https://github.com/orgs/20250123-SSG/projects/5/views/2) | [Milestones](https://github.com/20250123-SSG/final-noodle-zip/milestones?state=closed) | [Issues](https://github.com/20250123-SSG/final-noodle-zip/issues?q=is%3Aissue%20state%3Aclosed) |
+|-----------------------------------------------------------|------------------|----------------|-----------------|
+
+### 👬 1차 Mini Project 
+- [1조_WMS-CJOA](https://github.com/20250123-SSG/wms_CJOA)
+- [2조_WMS-Olive](https://github.com/20250123-SSG/wms_Olive)
+- [3조_WMS-SWMS](https://github.com/20250123-SSG/wms_SWMS)
+
+### 👬 2차 Mini Project 
+- [1조_Shoppingmall-Admin-A+Store](https://github.com/20250123-SSG/shoppingmall-admin_astore)
+- [2조_Shoppingmall-Admin-iyBook](https://github.com/20250123-SSG/shoppingmall-admin_iybook)
+
+<hr/>
+
 ### 📝 과정소개
 - (K-DT) Java기반 백엔드 개발자 양성과정 7회차
 - 2025/01/23 ~ 2025/07/29 (960시간, 120일)
@@ -51,7 +70,7 @@
 - [SpringFramework](https://github.com/20250123-SSG/07_springframework-workspace)
 - [SpringBoot](https://github.com/20250123-SSG/08_springboot-workspace)
 - [JPA](https://github.com/20250123-SSG/09_jpa-workspace)
-- [NCP]()
+- [NCP](https://github.com/20250123-SSG/10_ncp-workspace)
 
 ### 📽️ 수업 영상
 - [Java](https://drive.google.com/drive/folders/1hfND0Jwe549Vjg0qkDw2kCeFxEzlTNjj?usp=sharing)
@@ -63,15 +82,6 @@
 - [SpringFramework](https://drive.google.com/drive/folders/18esLoyikniuEa6b7w3HHDb-iAOBuAw5a?usp=drive_link)
 - [SpringBoot](https://drive.google.com/drive/folders/1msPHijdJX-CxsQxsgMTsEPWGGUGb8K7s?hl=ko)
 - [참고_UML모델링(영상내렸습니다~필요하면요청주세요)](https://drive.google.com/drive/folders/1O1QMotfrnfdRLeuGYRLMGYUxtRiyhSbN?hl=ko)
-
-### 👬 1차 Mini Project 
-- [1조_WMS-CJOA](https://github.com/20250123-SSG/wms_CJOA)
-- [2조_WMS-Olive](https://github.com/20250123-SSG/wms_Olive)
-- [3조_WMS-SWMS](https://github.com/20250123-SSG/wms_SWMS)
-
-### 👬 2차 Mini Project 
-- [1조_Shoppingmall-Admin-A+Store](https://github.com/20250123-SSG/shoppingmall-admin_astore)
-- [2조_Shoppingmall-Admin-iyBook](https://github.com/20250123-SSG/shoppingmall-admin_iybook)
 
 ### 🔗 참고 사이트 (Ctrl 클릭하면 새 창으로 열 수 있습니다.)
 <ul type="disc">
