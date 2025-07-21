@@ -21,7 +21,7 @@
 - [1조_Shoppingmall-Admin-A+Store](https://github.com/20250123-SSG/shoppingmall-admin_astore)
 - [2조_Shoppingmall-Admin-iyBook](https://github.com/20250123-SSG/shoppingmall-admin_iybook)
 
-<hr/>
+##
 
 ### 📝 과정소개
 - (K-DT) Java기반 백엔드 개발자 양성과정 7회차
