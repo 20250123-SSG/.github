@@ -12,14 +12,14 @@
 | [Repository](https://github.com/20250123-SSG/final-noodle-zip) | [Sprint Board](https://github.com/orgs/20250123-SSG/projects/5/views/2) | [Milestones](https://github.com/20250123-SSG/final-noodle-zip/milestones?state=closed) | [Issues](https://github.com/20250123-SSG/final-noodle-zip/issues?q=is%3Aissue%20state%3Aclosed) |
 |-----------------------------------------------------------|------------------|----------------|-----------------|
 
+### 👬 2차 Mini Project 
+- [1조_Shoppingmall-Admin-A+Store](https://github.com/20250123-SSG/shoppingmall-admin_astore)
+- [2조_Shoppingmall-Admin-iyBook](https://github.com/20250123-SSG/shoppingmall-admin_iybook)
+- 
 ### 👬 1차 Mini Project 
 - [1조_WMS-CJOA](https://github.com/20250123-SSG/wms_CJOA)
 - [2조_WMS-Olive](https://github.com/20250123-SSG/wms_Olive)
 - [3조_WMS-SWMS](https://github.com/20250123-SSG/wms_SWMS)
-
-### 👬 2차 Mini Project 
-- [1조_Shoppingmall-Admin-A+Store](https://github.com/20250123-SSG/shoppingmall-admin_astore)
-- [2조_Shoppingmall-Admin-iyBook](https://github.com/20250123-SSG/shoppingmall-admin_iybook)
 
 ##
 
