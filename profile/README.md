@@ -15,7 +15,7 @@
 ### 👬 2차 Mini Project 
 - [1조_Shoppingmall-Admin-A+Store](https://github.com/20250123-SSG/shoppingmall-admin_astore)
 - [2조_Shoppingmall-Admin-iyBook](https://github.com/20250123-SSG/shoppingmall-admin_iybook)
-- 
+
 ### 👬 1차 Mini Project 
 - [1조_WMS-CJOA](https://github.com/20250123-SSG/wms_CJOA)
 - [2조_WMS-Olive](https://github.com/20250123-SSG/wms_Olive)
